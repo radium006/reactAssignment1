@@ -1,0 +1,13 @@
+.grayBox{
+    background-color: lightgrey;
+    padding: 15px;
+}
+
+.content{
+    padding-top: 20px;
+}
+
+.title{
+    font-weight: bold;
+    
+}
